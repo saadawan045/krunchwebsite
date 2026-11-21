@@ -129,7 +129,7 @@ try {
 
     <div class="story-text">
         <p>
-            Krunch was born out of a dream shared by two young Pakistani brothers, Saad and Ismael. Having lived in the bustling city of Dubai their entire lives, the two brothers found themselves craving the authentic flavors of Nashville’s fried chicken scene – a taste that was hard to find in Lahore.
+            Krunch was born out of a dream shared by two young Pakistani brothers, Saad and Ismael. After growing up in Dubai and moving to Lahore in 2021, the two brothers found themselves craving the authentic flavors of Nashville’s fried chicken scene – a taste that was hard to find in Lahore.
         </p>
         <p>
             After years of enjoying places like Dave's Hot Chicken and Pickl, Saad and Ismael decided to bring that unforgettable taste to Lahore. Their vision was clear – to introduce the Nashville fried chicken experience, focusing on authenticity, flavor, and the power of high-quality ingredients.
