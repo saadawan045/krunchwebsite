@@ -1,0 +1,9 @@
+# Dependencies
+vendor/
+
+# The payment QR code is added per install
+qr.png
+
+# Never commit real database exports
+*.sql
+!schema.sql
