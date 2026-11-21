@@ -33,7 +33,7 @@ PHP, MySQL/MariaDB, HTML and CSS, run locally on XAMPP. Database access uses pre
    ```sql
    INSERT INTO admins (name, email, password) VALUES ('Admin', 'admin@example.com', '<the hash>');
    ```
-5. Open http://localhost/krunch-website/krunchwebsite.php. Log in at `login.php` with the admin email to reach the dashboard.
+5. Open http://localhost/krunchwebsite/krunchwebsite.php. Log in at `login.php` with the admin email to reach the dashboard.
 
 The five menu photos are in `uploads/` (from the [@krunchlahore](https://www.instagram.com/krunchlahore/) Instagram). New items' photos are uploaded from the admin menu page. To show a payment QR code on the order status page, add your own `qr.png` to the project folder.
 
